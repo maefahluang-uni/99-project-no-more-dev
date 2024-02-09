@@ -1,0 +1,11 @@
+{
+  "name": "99-project-no-more-dev",
+  "version": "1.0.0",
+  "description": "Smart Gate system for Mae Fah Luang University. This system use automatic number plate recognition(ANPR) to store data who goes in and out in our university. ## Members Nutchanon Kullasit 6431503018 Porames Khaunpet 6431503035 Ueakarun Lergchumniel 6431503075 Alicha Omthaisong 6431503112",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
